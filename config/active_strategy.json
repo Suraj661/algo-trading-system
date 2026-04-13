@@ -1,0 +1,7 @@
+{
+  "name": "rsi",
+  "symbol": "NSE_EQ|INE848E01016",
+  "interval": "1minute",
+  "quantity": 1,
+  "risk_per_trade": 100
+}
