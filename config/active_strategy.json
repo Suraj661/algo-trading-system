@@ -6,5 +6,8 @@
   "risk_per_trade": 100,
   "period": 14,
   "oversold": 30,
-  "overbought": 70
+  "overbought": 70,
+  "paper_trading": true,
+  "max_quantity": 10,
+  "min_trade_interval": 60
 }
